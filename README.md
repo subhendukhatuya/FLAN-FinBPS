@@ -14,8 +14,6 @@
 
     To generate the questions list:
     ```
-    git clone https://github.com/patil-suraj/question_generation.git
-    cd question_generation
     python questions_generation_and_sorting.py
     ```
     To apply topic modelling on generated questions:
@@ -24,7 +22,7 @@
     ```
     To generate the extractive summary for train set:
     ```
-    python train_extractive_creaion.py
+    python train_extractive_creation.py
     ```
     To generate the extractive summary for test set:
     ```
