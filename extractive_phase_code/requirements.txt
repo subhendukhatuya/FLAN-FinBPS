@@ -1,0 +1,3 @@
+transformers-4.33.2
+sentencepiece-0.1.99
+sentence-transformers-2.2.2
