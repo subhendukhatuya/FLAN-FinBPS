@@ -11,7 +11,8 @@
      Raw ECTSum Data: [here](https://github.com/rajdeep345/ECTSum)
 2. For extractive stage:
 
-
+   Get the datsets required for extractive hase from [here](https://drive.google.com/drive/folders/1M3ks2kjkkeyhl1OICb9OciD2JaouJCaI?usp=drive_link)
+   
     To generate the questions list:
     ```
     python questions_generation_and_sorting.py
@@ -29,9 +30,9 @@
     python test_extractive_generation.py
     ```   
 
-4. **python ectsum_finetune_flant5_question_based_context.py** to train the model. It will produce predicted BPS for test files.
-
-### Note
-
+3. To train the model please run the followinf code. It will produce predicted BPS for test files.
+    ```
+    python ectsum_finetune_flant5_question_based_context.py
+    ```  
 
 
