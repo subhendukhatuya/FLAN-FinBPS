@@ -11,7 +11,7 @@
      Raw ECTSum Data: [here](https://github.com/rajdeep345/ECTSum)
 2. For Extractive Stage:
 
-   Get the datsets required for extractive hase from [here](https://drive.google.com/drive/folders/1M3ks2kjkkeyhl1OICb9OciD2JaouJCaI?usp=drive_link)
+   Get the datsets required for extractive phase from [here](https://drive.google.com/drive/folders/1M3ks2kjkkeyhl1OICb9OciD2JaouJCaI?usp=drive_link)
    
     To generate the questions list:
     ```
