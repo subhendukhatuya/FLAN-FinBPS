@@ -32,7 +32,7 @@
     ```   
 
 4. For Abstrative Phase.
-   To train the model please run the followinf code. It will produce predicted BPS for test files.
+   To train the model please run the following code. It will produce predicted BPS for test files.
     ```
     python ectsum_finetune_flant5_question_based_context.py
     ```  
